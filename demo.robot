@@ -3,7 +3,7 @@ Library    SeleniumLibrary
 
 
 *** Test Cases ***
-Verify Mobiles
+Verify Redmi from Mobiles
     [Tags]  demo
     User is allowed to Open amazon
     Search for Mobiles
