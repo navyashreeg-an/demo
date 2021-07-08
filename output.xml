@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 4.0.3 (Python 3.9.6 on win32)" generated="20210705 12:41:11.332" rpa="false" schemaversion="2">
+<suite id="s1" name="Flip" source="c:\Users\ANUP\OneDrive\Desktop\VSC\Flip.robot">
+<test id="s1-t1" name=" User is allowed to Open flipkart">
+<tag>flip</tag>
+<status status="FAIL" starttime="20210705 12:41:11.896" endtime="20210705 12:41:11.901">Test case contains no keywords.</status>
+</test>
+<status status="FAIL" starttime="20210705 12:41:11.339" endtime="20210705 12:41:11.903"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+<stat pass="0" fail="1" skip="0">flip</stat>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="Flip">Flip</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
