@@ -1,7 +1,7 @@
 *** Settings ***
 Library    SeleniumLibrary
 
-
+//Edit 2//
 *** Test Cases ***
 Verify boat from Mobiles
     [Tags]  demo
