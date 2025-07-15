@@ -6,7 +6,7 @@ Library     DataDriver  ../Test/te.xlsx sheet_name=Sheet1
 Suite Setup     User is allowed to Open amazon
 
 
-*** Test Cases ***
+*** Test Casess ***
 Loginwithexcel
 
 *** Keywords ***
